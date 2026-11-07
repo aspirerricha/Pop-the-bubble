@@ -26,13 +26,12 @@ This is a fun, hand-gesture-controlled bubble-popping game where your hands beco
 - Webcam (for real-time hand tracking)
 
 ### 📸 Show Us What You Built!
- <img width="716" height="408" alt="Screenshot 2026-11-07 235405" src="https://github.com/user-attachments/assets/6da0f336-8fd2-4973-b9e8-d42e14c02cba" />
 
-<img width="593" height="335" alt="Screenshot 2026-11-07 232345" src="https://github.com/user-attachments/assets/813c7c9a-987f-4ae3-ad20-fcd8770db779" />
+| Start Screen | Gameplay |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/6da0f336-8fd2-4973-b9e8-d42e14c02cba" width="400" alt="Start screen"> | <img src="https://github.com/user-attachments/assets/813c7c9a-987f-4ae3-ad20-fcd8770db779" width="400" alt="Gameplay"> |
 
-
-
-- Video Link:https://drive.google.com/drive/folders/11sDc6vrG5wtza1PX8080jme7WlYlpbK9?usp=sharing
+🎥 **Demo Video:** [Watch it here](https://drive.google.com/drive/folders/11sDc6vrG5wtza1PX8080jme7WlYlpbK9?usp=sharing)
 
 ### ✨ Cool Things It Does
 - 🤏 **Pinch to Pop:** Pop bubbles using your thumb and index finger.

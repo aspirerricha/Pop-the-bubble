@@ -1,60 +1,40 @@
 # SHN-MEDIAPIPE
+
 ![Project Cover](assets/cover.jpeg)
-#  [Your Project Name]
+
+# Pinch the bubble 🤏
 
 ### 💡 What's the idea?
-[Tell us what you built and what it does. Keep it short!]
+This is a fun, hand-gesture-controlled bubble-popping game where your hands become your magic wand! Pinch to pop bubbles, use an open palm to pause, and throw up a YOLO sign to activate your shield. Can you beat the timer and get the highest score?
 
 ### 🌐 Check it out!
-- **Live Website:** [Drop your link here / N/A]
-- **GitHub Repo:** [Drop your repository link here]
+- **Live Website:** N/A (Python Desktop Application)
+- **GitHub Repo:** [Add your repository link here]
 
 ### 🛠️ What did you use?
-[Tech stack, tools, frameworks, libraries, etc.]
+- Python
+- OpenCV – Game interface and real-time camera processing
+- MediaPipe – Hand tracking and gesture recognition
+- NumPy – Image processing
+- Random & Math – Bubble generation and collision detection
 
 ### 👥 The Humans Behind It
-- [Name – GitHub Username]
-- [Name – GitHub Username]
+- Richa Devaraj - aspirerricha
 
 ### ⚙️ Hardware Corner
-[What hardware did you use? / N/A]
+- Laptop / PC
+- Webcam (for real-time hand tracking)
 
 ### 📸 Show Us What You Built!
-[Add screenshots, photos, GIFs or demo video links here.]
+- 
+- [Add a demo GIF or video link here]
 
 ### ✨ Cool Things It Does
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-
----
-
-**Built with curiosity at Saturday Hack Night 💜**# 🚀 [Your Project Name]
-
-### 💡 What's the idea?
-[Tell us what you built and what it does. Keep it short!]
-
-### 🌐 Check it out!
-- **Live Website:** [Drop your link here / N/A]
-- **GitHub Repo:** [Drop your repository link here]
-
-### 🛠️ What did you use?
-[Tech stack, tools, frameworks, libraries, etc.]
-
-### 👥 The Humans Behind It
-- [Name – GitHub Username]
-- [Name – GitHub Username]
-
-### ⚙️ Hardware Corner
-[What hardware did you use? / N/A]
-
-### 📸 Show Us What You Built!
-[Add screenshots, photos, GIFs or demo video links here.]
-
-### ✨ Cool Things It Does
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- 🤏 **Pinch to Pop:** Pop bubbles using your thumb and index finger.
+- ✋ **Open Palm to Pause:** Pause the game with a simple hand gesture.
+- 🤘 **YOLO Shield:** Activate a shield that helps protect against escaping bubbles.
+- ⏱️ **Beat the Clock:** Score as many points as possible within 60 seconds.
+- 💥 **Particle Effects:** Enjoy fun visual effects when bubbles burst.
 
 ---
 
